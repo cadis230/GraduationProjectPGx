@@ -1,0 +1,26 @@
+function_1,function_2,phenotype
+Decreased function,Decreased function,CYP2C19 Likely Intermediate Metabolizer
+Decreased function,Increased function,CYP2C19 Likely Intermediate Metabolizer
+Decreased function,No function,CYP2C19 Likely Poor Metabolizer
+Decreased function,Normal function,CYP2C19 Likely Intermediate Metabolizer
+Decreased function,Uncertain function,CYP2C19 Indeterminate
+Increased function,Decreased function,CYP2C19 Likely Intermediate Metabolizer
+Increased function,Increased function,CYP2C19 Ultrarapid Metabolizer
+Increased function,No function,CYP2C19 Intermediate Metabolizer
+Increased function,Normal function,CYP2C19 Rapid Metabolizer
+Increased function,Uncertain function,CYP2C19 Indeterminate
+No function,Decreased function,CYP2C19 Likely Poor Metabolizer
+No function,Increased function,CYP2C19 Intermediate Metabolizer
+No function,No function,CYP2C19 Poor Metabolizer
+No function,Normal function,CYP2C19 Intermediate Metabolizer
+No function,Uncertain function,CYP2C19 Indeterminate
+Normal function,Decreased function,CYP2C19 Likely Intermediate Metabolizer
+Normal function,Increased function,CYP2C19 Rapid Metabolizer
+Normal function,No function,CYP2C19 Intermediate Metabolizer
+Normal function,Normal function,CYP2C19 Normal Metabolizer
+Normal function,Uncertain function,CYP2C19 Indeterminate
+Uncertain function,Decreased function,CYP2C19 Indeterminate
+Uncertain function,Increased function,CYP2C19 Indeterminate
+Uncertain function,No function,CYP2C19 Indeterminate
+Uncertain function,Normal function,CYP2C19 Indeterminate
+Uncertain function,Uncertain function,CYP2C19 Indeterminate

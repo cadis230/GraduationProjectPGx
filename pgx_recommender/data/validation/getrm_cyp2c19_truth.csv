@@ -1,0 +1,249 @@
+sample_id,cyp2c19_raw,confirmed_standard,cyp2c19_diplotype,has_ENA_WGS,in_nygc_3202
+HG00276,*1/*1,True,*1/*1,True,True
+HG00436,*1/*1,True,*1/*1,True,True
+HG00589,*1/*1,True,*1/*1,True,True
+HG01190,*1/*2,True,*1/*2,True,True
+HG01456,*1/*1,True,*1/*1,False,True
+HG01697,*17/*17,True,*17/*17,False,True
+HG01809,*2/*2,True,*2/*2,False,True
+HG02087,*1/*2,True,*1/*2,False,True
+HG02852,*2/*35,True,*2/*35,False,True
+HG02861,*2/*35,True,*2/*35,False,True
+HG03370,*2/*35,True,*2/*35,False,True
+NA02016,*1/*2,True,*1/*2,False,False
+NA06991,*1/*1,True,*1/*1,True,True
+NA06993,*1/*1,True,*1/*1,False,True
+NA07000,*1/*17,True,*1/*17,True,True
+NA07019,*1/*17,True,*1/*17,True,True
+NA07029,*8/*17,True,*8/*17,True,True
+NA07048,*1/*17,True,*1/*17,False,True
+NA07055,*1/*17,True,*1/*17,True,True
+NA07056,*1/*1,True,*1/*1,True,True
+NA07348,*2/*17,True,*2/*17,True,True
+NA07357,*2/*17,True,*2/*17,True,True
+NA07439,*2/*10,True,*2/*10,False,False
+NA09301,*1/*1 (*1/*17),False,,False,False
+NA10005,*1/*1 (*1/*17),False,,False,False
+NA10831,*1/*17,True,*1/*17,True,True
+NA10838,*1/*1,True,*1/*1,False,True
+NA10846,*1/*17,True,*1/*17,False,True
+NA10847,*1/*1,True,*1/*1,True,True
+NA10851,*1/*17,True,*1/*17,True,True
+NA10854,*1/*1,True,*1/*1,True,True
+NA10855,*1/*1,True,*1/*1,False,True
+NA10856,*1/*2,True,*1/*2,False,True
+NA10859,*1/*1,True,*1/*1,False,True
+NA10865,*8/*17,True,*8/*17,False,True
+NA11832,*1/*2,True,*1/*2,True,True
+NA11839,*1/*1,True,*1/*1,True,True
+NA11881,*1/*17,True,*1/*17,False,True
+NA11993,*1/*1,True,*1/*1,True,True
+NA12003,*1/*1,True,*1/*1,True,True
+NA12006,*1/*1,True,*1/*1,True,True
+NA12145,*2/*17,True,*2/*17,True,True
+NA12156,*1/*1,True,*1/*1,True,True
+NA12236,*1/*17,True,*1/*17,False,True
+NA12244,*1/*1,True,*1/*1,False,False
+NA12273,*1/*2,True,*1/*2,False,True
+NA12336,*17/*17,True,*17/*17,False,True
+NA12375,*2/*17,True,*2/*17,False,False
+NA12717,*2/*2,True,*2/*2,True,True
+NA12753,*1/*2,True,*1/*2,False,True
+NA12813,*1/*17,True,*1/*17,True,True
+NA12815,*1/*2,True,*1/*2,False,True
+NA12873,*1/*17,True,*1/*17,True,True
+NA12878,*1/*2,True,*1/*2,False,True
+NA12892,*1/*1,True,*1/*1,False,True
+NA15245,*1/*2,True,*1/*2,False,False
+NA16654,*1/*2,True,*1/*2,False,False
+NA16688,*2/*3,True,*2/*3,False,False
+NA16689,*2/*2,True,*2/*2,False,False
+NA17012,*1/*2,True,*1/*2,False,False
+NA17019,*1/*1,True,*1/*1,False,False
+NA17020,*1/*1,True,*1/*1,False,False
+NA17039,*1/*1,True,*1/*1,False,False
+NA17052,*1/*3,True,*1/*3,False,False
+NA17057,*1/*1,True,*1/*1,False,False
+NA17058,*1/*2,True,*1/*2,False,False
+NA17061,*2/*2,True,*2/*2,False,False
+NA17073,*1/*1,True,*1/*1,False,False
+NA17074,*12/*17,True,*12/*17,False,False
+NA17075,*1/*1,True,*1/*1,False,False
+NA17078,*1/*2,True,*1/*2,False,False
+NA17084,*2/*4,True,*2/*4,False,False
+NA17102,*1/*17,True,*1/*17,False,False
+NA17114,*1/*1,True,*1/*1,False,False
+NA17115,*1/*1,True,*1/*1,False,False
+NA17119,*1/*1 (*1/*17),False,,False,False
+NA17129,*1/*1,True,*1/*1,False,False
+NA17130,*1/*1 (*1/*17),False,,False,False
+NA17201,*1/*2,True,*1/*2,False,False
+NA17203,*1/*2 (*2/*17),False,,False,False
+NA17204,*1/*1,True,*1/*1,False,False
+NA17205,*1/*2,True,*1/*2,False,False
+NA17206,*1/*1,True,*1/*1,False,False
+NA17207,*1/*2,True,*1/*2,False,False
+NA17208,*1/*1,True,*1/*1,False,False
+NA17209,*1/*1,True,*1/*1,False,False
+NA17210,*1/*1,True,*1/*1,False,False
+NA17211,*1/*1,True,*1/*1,False,False
+NA17212,*1/*2,True,*1/*2,False,False
+NA17213,*1/*1 (*1/*17),False,,False,False
+NA17214,*1/*2,True,*1/*2,False,False
+NA17215,*1/*1,True,*1/*1,False,False
+NA17216,*1/*1,True,*1/*1,False,False
+NA17217,*1/*1,True,*1/*1,False,False
+NA17218,*1/*2,True,*1/*2,False,False
+NA17219,*1/*2,True,*1/*2,False,False
+NA17220,*1/*1 (*1/*17),False,,False,False
+NA17221,*1/*1,True,*1/*1,False,False
+NA17222,*1/*1,True,*1/*1,False,False
+NA17224,*1/*2,True,*1/*2,False,False
+NA17226,*1/*1,True,*1/*1,False,False
+NA17227,*1/*1,True,*1/*1,False,False
+NA17228,*1/*1,True,*1/*1,False,False
+NA17229,*1/*1,True,*1/*1,False,False
+NA17230,*1/*1 (*1/*17),False,,False,False
+NA17231,*1/*1,True,*1/*1,False,False
+NA17232,*1/*2 (*2/*17),False,,False,False
+NA17233,*1/*1,True,*1/*1,False,False
+NA17234,*1/*1,True,*1/*1,False,False
+NA17235,*1/*1,True,*1/*1,False,False
+NA17236,*1/*1,True,*1/*1,False,False
+NA17237,*1/*2 (*2/*17),False,,False,False
+NA17240,*1/*1 (*1/*17),False,,False,False
+NA17242,*1/*1,True,*1/*1,False,False
+NA17243,*1/*1 (*1/*17),False,,False,False
+NA17244,*1/*1,True,*1/*1,False,False
+NA17245,*1/*2,True,*1/*2,False,False
+NA17246,*1/*8 (*8/*17),False,,False,False
+NA17247,*1/*1,True,*1/*1,False,False
+NA17248,*1/*1 (*17/*17),False,,False,False
+NA17249,*1/*1 (*1/*17),False,,False,False
+NA17252,*1/*1,True,*1/*1,False,False
+NA17254,*1/*1,True,*1/*1,False,False
+NA17256,*1/*1,True,*1/*1,False,False
+NA17257,*1/*1 (*1/*17),False,,False,False
+NA17260,*1/*2 (*2/*17),False,,False,False
+NA17261,*1/*1,True,*1/*1,False,False
+NA17262,*1/*1 (*17/*17),False,,False,False
+NA17263,*2/*2,True,*2/*2,False,False
+NA17264,*1/*2 (*2/*17),False,,False,False
+NA17265,*1/*1,True,*1/*1,False,False
+NA17267,*1/*1,True,*1/*1,False,False
+NA17268,*1/*1,True,*1/*1,False,False
+NA17269,*1/*2,True,*1/*2,False,False
+NA17272,*1/*1 (*17/*17),False,,False,False
+NA17274,*1/*1 (*1/*17),False,,False,False
+NA17275,*1/*1 (*1/*17),False,,False,False
+NA17276,*1/*1 (*1/*17),False,,False,False
+NA17277,*1/*1 (*1/*17),False,,False,False
+NA17279,*1/*1 (*17/*17),False,,False,False
+NA17280,*1/*8,True,*1/*8,False,False
+NA17281,*1/*1 (*1/*17),False,,False,False
+NA17282,*1/*1,True,*1/*1,False,False
+NA17283,*1/*1,True,*1/*1,False,False
+NA17285,*1/*1,True,*1/*1,False,False
+NA17286,*1/*1,True,*1/*1,False,False
+NA17287,*1/*1 (*1/*17),False,,False,False
+NA17288,*2/*17,True,*2/*17,False,False
+NA17289,*2/*2,True,*2/*2,False,False
+NA17290,*1/*2,True,*1/*2,False,False
+NA17291,*1/*1,True,*1/*1,False,False
+NA17292,*1/*2 (*2/*17),False,,False,False
+NA17293,*1/*1 (*1/*17),False,,False,False
+NA17295,*1/*2,True,*1/*2,False,False
+NA17296,*1/*1 (*17/*17),False,,False,False
+NA17298,*1/*1,True,*1/*1,False,False
+NA17300,*1/*1 (*1/*17),False,,False,False
+NA17438,*1/*1,True,*1/*1,False,False
+NA17440,*1/*1,True,*1/*1,False,False
+NA17448,*1/*13,True,*1/*13,False,False
+NA17454,*1/*1,True,*1/*1,False,False
+NA17466,*1/*1 (*1/*17),False,,False,False
+NA17618,*1/*1,True,*1/*1,False,False
+NA17641,*2/*17,True,*2/*17,False,False
+NA17642,*1/*1,True,*1/*1,False,False
+NA17657,*1/*1,True,*1/*1,False,False
+NA17658,*1/*17,True,*1/*17,False,False
+NA17660,*1/*1,True,*1/*1,False,False
+NA17673,*1/*2,True,*1/*2,False,False
+NA17679,*2/*17,True,*2/*17,False,False
+NA17702,*1/*1,True,*1/*1,False,False
+NA18484,*1/*2,True,*1/*2,True,True
+NA18509,*2/*2,True,*2/*2,True,False
+NA18518,*2/*17,True,*2/*17,True,True
+NA18519,*1/*17,True,*1/*17,True,True
+NA18524,*1/*2,True,*1/*2,True,False
+NA18526,*1/*1,True,*1/*1,True,True
+NA18540,*1/*2,True,*1/*2,True,False
+NA18544,*1/*2,True,*1/*2,True,True
+NA18552,*1/*4,True,*1/*4,True,True
+NA18563,*1/*1,True,*1/*1,False,True
+NA18564,*2/*3,True,*2/*3,True,True
+NA18565,*1/*1,True,*1/*1,True,True
+NA18572,*1/*1,True,*1/*1,False,True
+NA18617,*1/*2,True,*1/*2,True,True
+NA18855,*1/*2,True,*1/*2,True,True
+NA18861,*1/*1,True,*1/*1,True,True
+NA18868,*1/*2,True,*1/*2,True,True
+NA18873,*1/*2,True,*1/*2,False,True
+NA18877,*1/*17,True,*1/*17,False,True
+NA18942,*1/*1,True,*1/*1,True,True
+NA18945,*1/*2,True,*1/*2,False,True
+NA18952,*1/*1,True,*1/*1,True,True
+NA18959,*1/*1,True,*1/*1,True,True
+NA18966,*1/*1,True,*1/*1,True,True
+NA18973,*1/*1,True,*1/*1,True,True
+NA18980,*1/*1,True,*1/*1,True,True
+NA18992,*1/*1,True,*1/*1,True,True
+NA19003,*1/*2,True,*1/*2,True,True
+NA19007,*1/*1,True,*1/*1,True,True
+NA19035,*17/*17,True,*17/*17,False,True
+NA19075,*1/*2,True,*1/*2,False,True
+NA19095,*1/*1,True,*1/*1,True,True
+NA19109,*17/*17,True,*17/*17,True,True
+NA19122,*2/*35,True,*2/*35,True,True
+NA19143,*1/*39,True,*1/*39,True,True
+NA19147,*1/*17,True,*1/*17,True,True
+NA19174,*1/*2,True,*1/*2,True,True
+NA19176,*2/*17,True,*2/*17,True,True
+NA19178,*1/*6,True,*1/*6,True,False
+NA19207,*2/*17,True,*2/*17,True,True
+NA19213,*1/*39,True,*1/*39,True,True
+NA19226,*1/*2,True,*1/*2,True,True
+NA19238,*1/*1,True,*1/*1,False,True
+NA19239,*13/*17,True,*13/*17,True,True
+NA19327,*2/*35,True,*2/*35,False,True
+NA19395,*1/*3,True,*1/*3,False,True
+NA19444,*1/*17,True,*1/*17,False,False
+NA19466,*1/*9,True,*1/*9,False,True
+NA19700,*1/*1,True,*1/*1,False,True
+NA19785,*1/*1,True,*1/*1,False,True
+NA19789,*1/*1,True,*1/*1,True,True
+NA19819,*1/*17,True,*1/*17,True,True
+NA19908,*1/*17,True,*1/*17,True,True
+NA19917,*2/*15,True,*2/*15,True,True
+NA19920,*1/*1,True,*1/*1,True,True
+NA20296,*1/*1,True,*1/*1,True,True
+NA20509,*2/*2,True,*2/*2,True,True
+NA21781,*1/*2,True,*1/*2,True,False
+NA23090,*2/*2,True,*2/*2,False,False
+NA23093,*2/*2,True,*2/*2,False,False
+NA23246,*3/*17,True,*3/*17,False,False
+NA23275,*1/*1,True,*1/*1,False,False
+NA23296,*1/*1,True,*1/*1,False,False
+NA23297,*1/*17,True,*1/*17,False,False
+NA23313,*1/*17,True,*1/*17,False,False
+NA23348,*8/*17,True,*8/*17,False,False
+NA23405,*1/*2,True,*1/*2,False,False
+NA23872,*1/*8,True,*1/*8,False,False
+NA23873,*1/*8,True,*1/*8,False,False
+NA23874,*2/*6,True,*2/*6,False,False
+NA23877,*1/*2,True,*1/*2,False,False
+NA23878,*1/*4 or *4/*17,False,,False,False
+NA23881,*1/*4,True,*1/*4,False,False
+NA24008,*9/*17,True,*9/*17,False,False
+NA24009,*2/*9,True,*2/*9,False,False
+NA24027,*1/*2,True,*1/*2,False,False
+NA24217,*1/*1,True,*1/*1,False,False

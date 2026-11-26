@@ -1,0 +1,37 @@
+{
+ "n_truth_in_nygc": 101,
+ "n_in_vcf": 88,
+ "n_missing_from_vcf": 13,
+ "ref_mismatch_positions": [],
+ "diplotype_ok": 88,
+ "phenotype_ok": 88,
+ "ranking_ok": 88,
+ "tied_calls": 0,
+ "unphased": 0,
+ "by_phenotype": {
+  "Indeterminate": {
+   "n": 2,
+   "phenotype_ok": 2
+  },
+  "Intermediate Metabolizer": {
+   "n": 26,
+   "phenotype_ok": 26
+  },
+  "Normal Metabolizer": {
+   "n": 37,
+   "phenotype_ok": 37
+  },
+  "Poor Metabolizer": {
+   "n": 4,
+   "phenotype_ok": 4
+  },
+  "Rapid Metabolizer": {
+   "n": 16,
+   "phenotype_ok": 16
+  },
+  "Ultrarapid Metabolizer": {
+   "n": 3,
+   "phenotype_ok": 3
+  }
+ }
+}
